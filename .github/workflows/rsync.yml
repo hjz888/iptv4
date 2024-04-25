@@ -45,3 +45,5 @@ jobs:
             cat /livetvdata/html/4gtv_rn.m3u >>/livetvdata/html/mylist.m3u
             bash /livetvdata/html/append_jms.sh
             # docker restart livetv
+
+            
