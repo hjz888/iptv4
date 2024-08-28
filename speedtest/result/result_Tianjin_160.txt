@@ -1,2 +1,2 @@
-1150k  nas.hssvm.com:8888
-1030k  111.167.11.223:5002
+1458k  nas.hssvm.com:8888
+1195k  xuys.top:8888
